@@ -7,6 +7,7 @@ public class Demo3 {
 	public void demoTest()
 	{
 		System.out.println("this is my  Demo3 first commit");
+		System.out.println("checking Conflict");
 		
 		System.out.println("Testing Conflict");
 		
