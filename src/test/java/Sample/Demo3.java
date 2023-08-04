@@ -8,6 +8,8 @@ public class Demo3 {
 	{
 		System.out.println("this is my  Demo3 first commit");
 		
+		System.out.println("Testing Conflict");
+		
 	}
 
 }
