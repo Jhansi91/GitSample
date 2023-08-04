@@ -12,7 +12,7 @@ public class Demo3 {
 		
 		System.out.println("Testing Conflict");
 		System.out.println("test r");
-		System.out.println("this is branch");
+		System.out.println("this is branch1");
 		
 	}
 
